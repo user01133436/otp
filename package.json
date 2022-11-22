@@ -21,7 +21,7 @@
     "git-revision": "0.0.2",
     "uglifyjs-webpack-plugin": "latest",
     "webpack": "^4.42.0",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "webpack-serve": "^3.2.0"
   }
 }
